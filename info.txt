@@ -1,0 +1,9 @@
+https://www.tampermonkey.net/
+Este script funciona con la Extension TamperMonkey, lo que hace es copiar todos los datos del CRM comercial (http://45.128.8.99/sta2025/main.php)
+al CRM de Admin (https://bussinesssoftwareadhoc.com/Venta_Alta).
+hay algunos campos que no los copia, esto es especialmente util para enviar firmas y hacer altas de ventas.
+entre los campos que NO rellena en automatico
+	NO RELLENA NOS DATOS COMERCIALES DEL CRM DE ADMIN
+	NO RELLENA LOS DATOS DEL CURSO
+	NO RELLENA LA IMPLANTACION
+	NO DA UN ALTA AUTOMATICA
